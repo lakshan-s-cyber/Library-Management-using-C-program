@@ -247,7 +247,7 @@ int main() {
     students[0].is_active = 1;
     student_count = 1;
 
-    // classify into admin account and student account , admin account pwd FIXED : Comment by Lakshan
+    // classify into admin account and student account , admin account pwd FIXED : 
 
     int ch;
     while(ch!=3){
